@@ -23,8 +23,8 @@ A curated collection of my professional certifications and learning achievements
 <details>
 <summary><b>View credentials</b></summary>
 
-* Anthropic — Introduction to Model Context Protocol
-* MathWorks — Image Processing Onramp
+* Anthropic - Introduction to Model Context Protocol
+* MathWorks - Image Processing Onramp
 
 </details>
 
@@ -33,9 +33,9 @@ A curated collection of my professional certifications and learning achievements
 <details>
 <summary><b>View credentials</b></summary>
 
-* Cisco Networking Academy — Cybersecurity Essentials
-* Cisco Networking Academy — Introduction to Cybersecurity
-* IBM — Introduction to Cybersecurity Tools & Cyber Attacks
+* Cisco Networking Academy - Cybersecurity Essentials
+* Cisco Networking Academy - Introduction to Cybersecurity
+* IBM - Introduction to Cybersecurity Tools & Cyber Attacks
 
 </details>
 
@@ -44,8 +44,8 @@ A curated collection of my professional certifications and learning achievements
 <details>
 <summary><b>View credentials</b></summary>
 
-* AWS / FutureSkills Prime — Cloud Master Class
-* VMware IT Academy — Network Virtualization Concepts
+* AWS / FutureSkills Prime - Cloud Master Class
+* VMware IT Academy - Network Virtualization Concepts
 
 </details>
 
@@ -54,10 +54,10 @@ A curated collection of my professional certifications and learning achievements
 <details>
 <summary><b>View credentials</b></summary>
 
-* University of Pennsylvania / Wharton — Introduction to Corporate Finance
-* University at Buffalo / SUNY — Blockchain Basics
-* Google — Fundamentals of Digital Marketing
-* LinkedIn Learning — The Power of the Minimalist Entrepreneur
+* University of Pennsylvania / Wharton - Introduction to Corporate Finance
+* University at Buffalo / SUNY - Blockchain Basics
+* Google - Fundamentals of Digital Marketing
+* LinkedIn Learning - The Power of the Minimalist Entrepreneur
 
 </details>
 
