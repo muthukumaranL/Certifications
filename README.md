@@ -14,7 +14,7 @@
 
 </p>
 
-A curated collection of my professional certifications, technical credentials, badges, and learning achievements across **AI, Data Science, Cybersecurity, Cloud, Networking, Automation, Business, and Technology.**
+A curated collection of my professional certifications and learning achievements across **AI, Data Science, Cybersecurity, Cloud, Networking, Automation, Business and Technology.**
 
 ---
 
