@@ -62,21 +62,3 @@ A curated collection of my professional certifications and learning achievements
 </details>
 
 ---
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muthukumaranL&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <i>Continuous learning. One credential at a time.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muthukumaranL">GitHub</a> •
-  <a href="https://www.linkedin.com/in/muthukumaranl/">LinkedIn</a> •
-  <a href="https://muthukumaranl.vercel.app/">Portfolio</a>
-</p>
